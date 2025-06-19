@@ -53,7 +53,6 @@
 ### 📌 Pinned Projects
 
 - [🔗 iSfera](https://github.com/Bobomurod2004/iSfera): FastAPI backend project for ...
-- [🔗 DjangoDocker](https://github.com/Bobomurod2004/DjangoDocker): Dockerized Django app for ...
 
 ---
 
