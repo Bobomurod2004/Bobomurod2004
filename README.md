@@ -1,5 +1,14 @@
 <h1 align="center">👋 Hi, I'm G'oibnazarov Bobomurod</h1>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Python+Backend+Developer;FastAPI+%7C+Django+%7C+PostgreSQL;Aiogram" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+
 <p align="center">
   A passionate <b>Python Backend Developer</b> from Uzbekistan 🇺🇿<br />
   Specializing in building RESTful APIs, automations, and bots using FastAPI and Django.
@@ -32,6 +41,15 @@
 </p>
 
 ---
+
+### 🛠️ Tools I Use
+<p align="center">
+  <img src="https://img.shields.io/badge/PyCharm-007ACC?style=flat-square&logo=PyCharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+   <img src="https://img.shields.io/badge/Termius-009688?style=flat-square&logo=Termius&logoColor=white" />
+</p>
 
 ### 📊 GitHub Stats
 
