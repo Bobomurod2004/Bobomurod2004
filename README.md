@@ -72,11 +72,5 @@
 
 - [🔗 iSfera](https://github.com/Bobomurod2004/iSfera): FastAPI backend project for ...
 
----
 
-### 📈 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bobomurod2004&style=for-the-badge&color=brightgreen" />
-</p>
 
