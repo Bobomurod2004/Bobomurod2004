@@ -11,7 +11,7 @@
 
 <p align="center">
   A passionate <b>Python Backend Developer</b> from Uzbekistan 🇺🇿<br />
-  Specializing in building RESTful APIs, automations, and bots using FastAPI and Django.
+  Specializing in building RESTful APIs, automations, and bots using  Django.
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on **Telegram bots**, **web APIs**, and **backend projects**
 - 🌱 I’m currently learning **Django REST Framework**, **Celery**, and **WebSocket integration**
 - 🧑‍💻 I regularly contribute to GitHub and share my learning journey
-- 💬 Ask me about **FastAPI**, **Django**, **PostgreSQL**, or anything backend-related
+- 💬 Ask me about  **Django**, **PostgreSQL**, or anything backend-related
 - 📫 How to reach me: [Telegram](https://t.me/Bobomurod2004) | [LinkedIn](https://linkedin.com/in/bobomurod-goibnazarov-4394182b2/)
 
 ### 🚀 Skills & Technologies
